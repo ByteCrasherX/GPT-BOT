@@ -88,8 +88,8 @@ PNG_BTN = [
      [
          InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", 
                               url=f"https://t.me/{SUPPORT_GRP}"), 
-         InlineKeyboardButton(text="ʜᴇʟᴘ", 
-                              url=f"https://t.me/{BOT_USERNAME}?start=help",
+         InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", 
+                              url=f"https://t.me/{UPDATE_CHNL}",
          ),
      ],
 ]
