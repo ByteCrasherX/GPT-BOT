@@ -32,7 +32,9 @@ START = f"""
 ✇ ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ ʙᴏᴛ.
 ✇ ғᴏʀ ʜᴇʟᴘ ᴛʏᴘᴇ /help
 
-ᴜsᴀɢᴇ : /ask where is hampi
+ᴜsᴀɢᴇ : 
+1. `/somya where is hampi`
+2. `/jeeneetards where is Kedarnath`
 """
 aditya = ("https://github.com/PyAaditya/GPT-BOT")
 owner = ("NoobZen")
