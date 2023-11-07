@@ -94,7 +94,7 @@ PNG_BTN = [
      ],
 ]
 SOURCE_BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton('sᴏᴜʀᴄᴇ', url=f"{SOURCE}")]])
-HELP_READ = "✘ ᴜsᴇ /jeeneeards write a simple calculator code in python.  \n\n **✘ ᴜsᴇ /ping ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ.**"
+HELP_READ = "✘ ᴜsᴇ /jeeneeards write a simple calculator code in python.  \n\n **✘ ᴜsᴇ /somya If the radius of earth is Rz then the height h at which the value of g becomes one-fourth,.**"
 HELP_BACK = [
      [
 #           InlineKeyboardButton(text="Qᴜᴇꜱᴛɪᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛɢᴘᴛ ᴄᴀɴ ꜱᴏʟᴠᴇ", url=f"https://t.me/CodersW0rld/633"),
